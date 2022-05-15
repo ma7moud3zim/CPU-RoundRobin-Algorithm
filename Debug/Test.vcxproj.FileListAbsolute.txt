@@ -1,0 +1,4 @@
+C:\Users\eng3z\Source\Repos\Test\Debug\Test.vcxproj.AssemblyReference.cache
+C:\Users\eng3z\Source\Repos\Test\Debug\Test.MyForm.resources
+C:\Users\eng3z\Source\Repos\Test\Debug\Test.vcxproj.GenerateResource.cache
+C:\Users\eng3z\Source\Repos\Test\Debug\CpuSchedAlgoRoundRobin.exe
